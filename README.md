@@ -1,4 +1,4 @@
-# Ekşi Sözlük'te Mahkeme Kararıyla Sildirilen / Erişime Engellenen Başlıklar
+# Ekşi Sözlük'ten Mahkeme Kararıyla Sildirilen / Erişime Engellenen Başlıklar
 
 1999'da yayın hayatına başlayan, günümüzde Türkiye'nin en büyük sosyal platformlarından birisi haline gelmiş [eksisozluk.com](https://eksisozluk.com); özellikle 2014 yılından itibaren yazılanların sansürlenmesi/silinmesi yoluyla çeşitli müdahalelere maruz kalmıştır. Türkiye Cumhuriyeti mahkemelerinden gelen sansür taleplerine cevap verilmemesi durumunda sitenin tümüyle erişime engelleneceğinden haberdar olan ve bu nedenle reklam gelirini sansür karşıtlığının önüne koyan site yönetimi, siteyi Türkiye Cumhuriyeti sınırları içerisindeki sunucularında barındırmaya ve Türkiye Cumhuriyeti yasalarına bağlı kılmaya karar vermiştir.
 
